@@ -76,7 +76,6 @@
       <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
       <AssemblyReference>System.Memory</AssemblyReference>
       <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
-      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
   <Flowchart DisplayName="BP_travel_Flowchart" sap:VirtualizedContainerService.HintSize="633.6,636.8" sap2010:WorkflowViewState.IdRef="Flowchart_3">
@@ -132,7 +131,7 @@
               <av:PointCollection x:Key="ConnectorLocation">440,136.333333333333 440,153.666666666667</av:PointCollection>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <TryCatch sap:VirtualizedContainerService.HintSize="1404.8,3440.8" sap2010:WorkflowViewState.IdRef="TryCatch_2">
+          <TryCatch sap:VirtualizedContainerService.HintSize="200,52.8" sap2010:WorkflowViewState.IdRef="TryCatch_2">
             <TryCatch.Try>
               <Sequence DisplayName="Exception Handling" sap:VirtualizedContainerService.HintSize="1368,3209.6" sap2010:WorkflowViewState.IdRef="Sequence_33">
                 <sap:WorkflowViewStateService.ViewState>
